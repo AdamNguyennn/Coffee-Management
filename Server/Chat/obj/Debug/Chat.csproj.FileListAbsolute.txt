@@ -1,0 +1,27 @@
+F:\Network\Chat\Chat\bin\Debug\Chat.exe.config
+F:\Network\Chat\Chat\bin\Debug\Chat.exe
+F:\Network\Chat\Chat\bin\Debug\Chat.pdb
+F:\Network\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+F:\Network\Chat\Chat\obj\Debug\Chat.Form1.resources
+F:\Network\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+F:\Network\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+F:\Network\Chat\Chat\obj\Debug\Chat.exe
+F:\Network\Chat\Chat\obj\Debug\Chat.pdb
+F:\Network\Lab_3\B4\Chat\Chat\bin\Debug\Chat.exe.config
+F:\Network\Lab_3\B4\Chat\Chat\bin\Debug\Chat.exe
+F:\Network\Lab_3\B4\Chat\Chat\bin\Debug\Chat.pdb
+F:\Network\Lab_3\B4\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+F:\Network\Lab_3\B4\Chat\Chat\obj\Debug\Chat.Form1.resources
+F:\Network\Lab_3\B4\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+F:\Network\Lab_3\B4\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+F:\Network\Lab_3\B4\Chat\Chat\obj\Debug\Chat.exe
+F:\Network\Lab_3\B4\Chat\Chat\obj\Debug\Chat.pdb
+F:\Cafe Project\Server\Chat\bin\Debug\Chat.exe.config
+F:\Cafe Project\Server\Chat\bin\Debug\Chat.exe
+F:\Cafe Project\Server\Chat\bin\Debug\Chat.pdb
+F:\Cafe Project\Server\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+F:\Cafe Project\Server\Chat\obj\Debug\Chat.Form1.resources
+F:\Cafe Project\Server\Chat\obj\Debug\Chat.Properties.Resources.resources
+F:\Cafe Project\Server\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+F:\Cafe Project\Server\Chat\obj\Debug\Chat.exe
+F:\Cafe Project\Server\Chat\obj\Debug\Chat.pdb

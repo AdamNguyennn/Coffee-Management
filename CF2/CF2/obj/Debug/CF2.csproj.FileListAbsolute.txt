@@ -1,0 +1,13 @@
+F:\Cafe Project\CF2\CF2\bin\Debug\CF2.exe.config
+F:\Cafe Project\CF2\CF2\bin\Debug\CF2.exe
+F:\Cafe Project\CF2\CF2\bin\Debug\CF2.pdb
+F:\Cafe Project\CF2\CF2\obj\Debug\CF2.csprojAssemblyReference.cache
+F:\Cafe Project\CF2\CF2\obj\Debug\CF2.fTableLogin.resources
+F:\Cafe Project\CF2\CF2\obj\Debug\CF2.Properties.Resources.resources
+F:\Cafe Project\CF2\CF2\obj\Debug\CF2.fTablbeManager.resources
+F:\Cafe Project\CF2\CF2\obj\Debug\CF2.csproj.GenerateResource.cache
+F:\Cafe Project\CF2\CF2\obj\Debug\CF2.exe
+F:\Cafe Project\CF2\CF2\obj\Debug\CF2.pdb
+F:\Cafe Project\CF2\CF2\obj\Debug\CF2.fAccountProfile.resources
+F:\Cafe Project\CF2\CF2\obj\Debug\CF2.fAdmin.resources
+F:\Cafe Project\CF2\CF2\obj\Debug\CF2.csproj.CoreCompileInputs.cache
